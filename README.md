@@ -18,3 +18,5 @@ b) Aplicar novamente a gravidade a todos os retângulos.
 O programa deverá mostrar no ecrã, de forma gráfica, a configuração 
 do mundo dos retângulos, após a transformação, conforme a figura 
 da direita acima.
+
+Unidade Curricular terminada com 17 Valores
